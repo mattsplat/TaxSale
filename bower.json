@@ -1,0 +1,21 @@
+{
+  "name": "csv",
+  "authors": [
+    "matsplat <matthewjohncoleman@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chart.js": "^2.5.0",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

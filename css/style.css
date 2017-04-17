@@ -1,0 +1,58 @@
+
+/*.listing-ul li{
+    width:30%; 
+    float:left;    
+     }
+listings{
+   
+    background: gainsboro;
+    list-style-type: none;
+    
+}
+listings:nth-child(3n-2){ 
+    border-top-left-radius:10px;
+    border-bottom-left-radius:10px
+}
+listings:nth-child(3n){ 
+    border-top-right-radius:10px;
+    border-bottom-right-radius:10px
+}
+listings:nth-child(6n+1){
+    background: #6699ff;        
+}
+listings:nth-child(6n+2){
+    background: #6699ff;
+}
+listings:nth-child(6n+3){
+    background: #6699ff;
+}
+.center-block{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}*/
+
+
+table{
+   font-size: 16px !important;
+   background-color: #2b3e50 !important;
+}
+.glyphicon{
+    font-size: 100px;
+}
+h2 a{
+    color: grey;
+}
+#map {
+    
+    height: 400px;
+    width: 100%;
+    
+}
+.row-centered {
+    text-align:center;
+}
+.chart{
+    color: grey;
+}
+
